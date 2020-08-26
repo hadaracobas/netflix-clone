@@ -1,4 +1,4 @@
-## The App is live: (https://naughty-wing-c42302.netlify.app)
+## The App is deployed on netlify: (https://naughty-wing-c42302.netlify.app)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
