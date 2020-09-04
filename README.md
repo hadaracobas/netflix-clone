@@ -1,3 +1,17 @@
+## Netflix Clone
+https://naughty-wing-c42302.netlify.app/
+
+The purpose of this project: A private project I built to improve my coding skills
+
+Few points about this project:
+* Technology: React js
+* Components: Banner, NavBar, Row, App (function components)
+* State: Hooks
+* API: TMDB (https://www.themoviedb.org/)
+* Design: Stick to the netflix design
+* Deploy: Netlify
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
