@@ -6,10 +6,10 @@ The purpose of this project: A private project I built to improve my coding skil
 Few points about this project:
 * Technology: React js
 * Components: Banner, NavBar, Row, App (function components)
-* State: Hooks
+* State: hooks
 * API: TMDB (https://www.themoviedb.org/)
-* Design: Stick to the netflix design
-* Deploy: Netlify
+* Design: stick to the netflix design
+* Deploy: netlify
 
 
 
